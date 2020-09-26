@@ -1,0 +1,16 @@
+#XOTable
+{
+    width:300px;
+    height:300px;
+}
+
+#XOTable td
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+table, td{
+    border:1px solid black
+}
